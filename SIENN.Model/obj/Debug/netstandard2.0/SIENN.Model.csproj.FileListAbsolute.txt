@@ -1,0 +1,12 @@
+F:\zadatak\SIENN.Model\bin\Debug\netstandard2.0\SIENN.Model.deps.json
+F:\zadatak\SIENN.Model\bin\Debug\netstandard2.0\SIENN.Model.dll
+F:\zadatak\SIENN.Model\bin\Debug\netstandard2.0\SIENN.Model.pdb
+F:\zadatak\SIENN.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+F:\zadatak\SIENN.Model\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.csprojResolveAssemblyReference.cache
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.csproj.CoreCompileInputs.cache
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.AssemblyInfoInputs.cache
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.AssemblyInfo.cs
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.csproj.CopyComplete
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.dll
+F:\zadatak\SIENN.Model\obj\Debug\netstandard2.0\SIENN.Model.pdb

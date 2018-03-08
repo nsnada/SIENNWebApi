@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIENN.Db\SIENN.Db.csproj" />
+    <ProjectReference Include="..\SIENN.Models\SIENN.Models.csproj" />
+  </ItemGroup>
+
+</Project>
